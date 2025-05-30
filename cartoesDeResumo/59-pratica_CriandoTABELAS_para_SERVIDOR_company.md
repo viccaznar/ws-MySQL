@@ -169,4 +169,4 @@ Imagine a tabela projects como um quadro de avisos em um escritório de projetos
 - employeeid: É como o “supervisor” indicado que ficará responsável pelo projeto, útil para que todos saibam quem lidera a iniciativa.
 - startdate e enddate: São as datas que marcam o início e o fim do projeto, como se o anúncio tivesse um prazo definido, permitindo que o quadro seja atualizado conforme os projetos evoluem.
 
-Essa organização facilita o gerenciamento do fluxo de trabalho dentro da empresa.
+Essa organização facilita o gerenciamento do fluxo de trabalho dentro da empresa.   
