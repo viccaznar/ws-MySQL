@@ -3,7 +3,8 @@ Cartão 4: Criando uma Nova Tabela – Analisando a Query
 Query de Exemplo:
 CREATE TABLE students(
     id INT NOT NULL PRIMARY KEY,
-    name VARCHAR(40) NOT NULL,
+    firstname VARCHAR(40) NOT NULL,
+    lastname VARCHAR(40) NOT NULL,
     class VARCHAR(20) NOT NULL,
     age INT
 );
